@@ -17,4 +17,4 @@ Go to the Theme Engine Plugin -> SETTINGS -> Theme Engine and in the Theme Name:
 
 ## Preview 😎
 
-![alt text](https://github.com/unraiders/imagenes/blob/main/UNRAIDERS-black.png)
+![alt text](https://github.com/unraiders/imagenes/blob/main/UNRAID-black.png)
